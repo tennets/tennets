@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stephan. Welcome to my page!
+👋 Hi. Welcome to my page!
 
 <!---
 tennets/tennets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
